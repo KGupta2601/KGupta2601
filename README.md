@@ -36,7 +36,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kashika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kashika" /></a><a href="https://ko-fi.com/kashika"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kashika" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgupta2601&show_icons=true&locale=en&layout=compact" alt="kgupta2601" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgupta2601&show_icons=true&locale=en&layout=compact" alt="kgupta2601" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgupta2601&show_icons=true&locale=en" alt="kgupta2601" /></p>
 

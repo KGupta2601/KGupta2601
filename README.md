@@ -38,6 +38,16 @@
 <p><a href="https://www.buymeacoffee.com/kashika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kashika" /></a><a href="https://ko-fi.com/kashika"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kashika" /></a></p>
 <br><br>
 
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="./assets/PostmanWhite.png" width="100px" height="100px" />
+  <img src="./assets/1.png" width="100px" height="100px" />
+  <img src="./assets/2.png" width="100px" height="100px" />
+  <img src="./assets/3.png" width="100px" height="100px" />
+  <img src="./assets/4.png" width="100px" height="100px" />
+  <img src="./assets/5.png" width="100px" height="100px" />
+</div>
+
 [![An image of @kgupta2601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kgupta2601)](https://holopin.io/@kgupta2601)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgupta2601&show_icons=true&locale=en&layout=compact" alt="kgupta2601" /></p>
